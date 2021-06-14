@@ -1,2 +1,6 @@
 # ignore all executables:
 *.exe
+# ignore allegro5
+**/allegro5/**
+**/.vs**
+**/.vscode**
